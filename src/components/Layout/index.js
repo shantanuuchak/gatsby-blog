@@ -3,7 +3,7 @@ import { ThemeProvider } from "styled-components"
 // Hooks
 import { useMetaDataQuery } from "hooks/useMetaDataQuery"
 // Components
-// import Header from "components/Header"
+import Header from "components/Header"
 //
 // import { ModeContext } from "context/ModeProvider"
 // Styles
@@ -17,6 +17,7 @@ const Layout = ({ children }) => {
   return (
     <ThemeProvider theme={darkTheme}>
       <GlobalStyles />
+      <Header siteTitle={data.title} />
       {children}
     </ThemeProvider>
   )
