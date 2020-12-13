@@ -1,7 +1,7 @@
 ## A modern responsive blog made using Gatsby. This serverless blog loads extremely fast and follows all the good SEO principles and is using graphQL internally to fetch all the data.
 
 ### Project Demo GIF
-![gatsby-blog](https://user-images.githubusercontent.com/63305945/102022093-8335ae00-3daa-11eb-9ab0-93796b0f2be4.gif)
+![gatsby-blog](https://user-images.githubusercontent.com/63305945/102022206-4322fb00-3dab-11eb-9e16-cc9c94871c60.gif)
 
 ### Project Screenshots
 ![Screenshot (437)](https://user-images.githubusercontent.com/63305945/98526782-34bf5c00-22a0-11eb-83df-137a62a9dca4.png)
